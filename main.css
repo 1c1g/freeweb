@@ -1,0 +1,23 @@
+.topright {
+  position: absolute;
+  right: 16px;
+}
+
+.underleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+.center-me {
+  text-align: center;
+}
+
+h1 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    
+  }
